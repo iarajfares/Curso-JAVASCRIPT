@@ -1,0 +1,15 @@
+{
+  "name": "ejercicio-1",
+  "version": "1.0.0",
+  "description": "primer ejercicio del curso de javascript",
+  "main": "index.js",
+  "scripts": {
+    "ejercicio-1": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firstproject"
+  ],
+  "author": "Iara",
+  "license": "ISC"
+}
