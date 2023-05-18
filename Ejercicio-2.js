@@ -8,7 +8,9 @@ const libro_favorito = {
     Fecha_De_Lanzamiento: "6 de Julio de 1936",
     Url: "https://articulo.mercadolibre.com.ar/MLA-1354128878-libro-asesinato-en-mesopotamia-agatha-christie-_JM#position=2&search_layout=stack&type=item&tracking_id=d05536e5-cd98-4894-882f-03c3488db153",
 }
+const list = [nombre, edad, dev, fecha_nacimiento, libro_favorito]
 
+console.log(list);
 console.log(nombre);
 
 console.log(edad);
